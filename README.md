@@ -25,3 +25,6 @@ Twitterで共有して、予定に乗っかりたい人と繋がる機会も。
 
 ## 画面遷移図
 https://xd.adobe.com/view/007ccdc0-10e9-4a43-9607-1b178236bf48-552f/
+
+## ER図
+https://drive.google.com/file/d/1RJkjmHNcBinqYMp961e3ZKBS2ZJcmbuI/view?usp=sharing
